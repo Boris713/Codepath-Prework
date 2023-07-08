@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-(https://github.com/Boris713/Codepath-Prework/assets/108431983/e1583fa8-013d-400e-a1c6-f417123818d2) 
+<img src='https://github.com/Boris713/Codepath-Prework/assets/108431983/e1583fa8-013d-400e-a1c6-f417123818d2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/Boris713/Codepath-Prework/assets/108431983/e1583fa8-013d-400e-a1c6-f417123818d2
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
