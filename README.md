@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[[https://imgur.com/gallery/tXWZnL3](https://imgur.com/gallery/tXWZnL3)](https://github.com/Boris713/Codepath-Prework/blob/main/Kapture%202023-07-07%20at%2022.03.59.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=[[https://imgur.com/gallery/tXWZnL3](https://imgur.com/gallery/tXWZnL3)](https://github.com/Boris713/Codepath-Prework/blob/main/Kapture%202023-07-07%20at%2022.03.59.gif) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
